@@ -1,0 +1,23 @@
+/* class 1 */
+/*  css attribute background color , text color , border , text size , font family */
+body {
+background-color: azure;
+}
+h1 {
+    color: blue;
+   
+}
+ 
+/* class 2 */
+.helo{
+    background-color: aqua;
+    padding-left: 10% ;
+}
+.why{ 
+   background-color:  red;
+}
+.ok{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:100%;
+}
